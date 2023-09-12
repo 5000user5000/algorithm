@@ -120,6 +120,7 @@ void MergeSort::merge(int left, int middle1, int middle2, int right)
 #endif
 
   // TODO : merge vectors until reaching end of either
+  combined.assign(size,0); //必須先初始化，不然底下直接access 例如 combined[10] 會 segmentation fault。c++ vector要注意，不是創建後就可以隨便抓個idx就assign值，一定要初始化!!!
   while (leftIndex <= middle1 && rightIndex <= right)
   {
     // place smaller of two current elements into result
