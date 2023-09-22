@@ -1,5 +1,15 @@
 This is README file for Algorithm PA#1
 Author: <please fill in name and student ID>
+
+
+=========
+更新版本的操作方式:
+1. 自動化測試所有case，如果fail會output在terminal上
+python each_check.py
+2. 把結果做圖
+python plot_data.py
+=======
+
 Date:
 =====
 SYNOPSIS:
