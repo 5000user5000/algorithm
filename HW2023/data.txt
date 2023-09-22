@@ -1,0 +1,432 @@
+mode: -MS
+input_file: inputs/5.case1.in
+The total CPU time: 0.122ms
+memory: 14116KB
+mode: -MS
+input_file: inputs/1000.case1.in
+The total CPU time: 0.203ms
+memory: 14116KB
+mode: -MS
+input_file: inputs/1000.case2.in
+The total CPU time: 0.332ms
+memory: 14116KB
+mode: -MS
+input_file: inputs/1000.case3.in
+The total CPU time: 0.378ms
+memory: 14116KB
+mode: -MS
+input_file: inputs/2000.case1.in
+The total CPU time: 0.263ms
+memory: 14116KB
+mode: -MS
+input_file: inputs/2000.case2.in
+The total CPU time: 0.143ms
+memory: 14116KB
+mode: -MS
+input_file: inputs/2000.case3.in
+The total CPU time: 0.253ms
+memory: 14116KB
+mode: -MS
+input_file: inputs/4000.case1.in
+The total CPU time: 0.629ms
+memory: 14116KB
+mode: -MS
+input_file: inputs/4000.case2.in
+The total CPU time: 0.243ms
+memory: 14116KB
+mode: -MS
+input_file: inputs/4000.case3.in
+The total CPU time: 0.444ms
+memory: 14116KB
+mode: -MS
+input_file: inputs/8000.case1.in
+The total CPU time: 0.868ms
+memory: 14172KB
+mode: -MS
+input_file: inputs/8000.case2.in
+The total CPU time: 0.446ms
+memory: 14172KB
+mode: -MS
+input_file: inputs/8000.case3.in
+The total CPU time: 0.593ms
+memory: 14172KB
+mode: -MS
+input_file: inputs/16000.case1.in
+The total CPU time: 1.799ms
+memory: 14172KB
+mode: -MS
+input_file: inputs/16000.case2.in
+The total CPU time: 1.137ms
+memory: 14172KB
+mode: -MS
+input_file: inputs/16000.case3.in
+The total CPU time: 1.213ms
+memory: 14172KB
+mode: -MS
+input_file: inputs/32000.case1.in
+The total CPU time: 16.084ms
+memory: 14304KB
+mode: -MS
+input_file: inputs/32000.case2.in
+The total CPU time: 1.661ms
+memory: 14304KB
+mode: -MS
+input_file: inputs/32000.case3.in
+The total CPU time: 1.572ms
+memory: 14304KB
+mode: -MS
+input_file: inputs/1000000.case1.in
+The total CPU time: 188.515ms
+memory: 21988KB
+mode: -MS
+input_file: inputs/1000000.case2.in
+The total CPU time: 75.628ms
+memory: 21996KB
+mode: -MS
+input_file: inputs/1000000.case3.in
+The total CPU time: 56.612ms
+memory: 21992KB
+mode: -QS
+input_file: inputs/5.case1.in
+The total CPU time: 0.112ms
+memory: 14116KB
+mode: -QS
+input_file: inputs/1000.case1.in
+The total CPU time: 0.171ms
+memory: 14116KB
+mode: -QS
+input_file: inputs/1000.case2.in
+The total CPU time: 0.846ms
+memory: 14116KB
+mode: -QS
+input_file: inputs/1000.case3.in
+The total CPU time: 1.037ms
+memory: 14116KB
+mode: -QS
+input_file: inputs/2000.case1.in
+The total CPU time: 0.252ms
+memory: 14116KB
+mode: -QS
+input_file: inputs/2000.case2.in
+The total CPU time: 3.323ms
+memory: 14116KB
+mode: -QS
+input_file: inputs/2000.case3.in
+The total CPU time: 3.086ms
+memory: 14116KB
+mode: -QS
+input_file: inputs/4000.case1.in
+The total CPU time: 0.549ms
+memory: 14116KB
+mode: -QS
+input_file: inputs/4000.case2.in
+The total CPU time: 12.702ms
+memory: 14148KB
+mode: -QS
+input_file: inputs/4000.case3.in
+The total CPU time: 12.87ms
+memory: 14116KB
+mode: -QS
+input_file: inputs/8000.case1.in
+The total CPU time: 0.939ms
+memory: 14172KB
+mode: -QS
+input_file: inputs/8000.case2.in
+The total CPU time: 74.688ms
+memory: 14544KB
+mode: -QS
+input_file: inputs/8000.case3.in
+The total CPU time: 45.003ms
+memory: 14296KB
+mode: -QS
+input_file: inputs/16000.case1.in
+The total CPU time: 1.894ms
+memory: 14172KB
+mode: -QS
+input_file: inputs/16000.case2.in
+The total CPU time: 214.842ms
+memory: 15052KB
+mode: -QS
+input_file: inputs/16000.case3.in
+The total CPU time: 202.193ms
+memory: 14544KB
+mode: -QS
+input_file: inputs/32000.case1.in
+The total CPU time: 3.154ms
+memory: 14304KB
+mode: -QS
+input_file: inputs/32000.case2.in
+The total CPU time: 848.49ms
+memory: 16120KB
+mode: -QS
+input_file: inputs/32000.case3.in
+The total CPU time: 839.787ms
+memory: 15100KB
+mode: -QS
+input_file: inputs/1000000.case1.in
+The total CPU time: 127.617ms
+memory: 20260KB
+mode: -HS
+input_file: inputs/5.case1.in
+The total CPU time: 0.112ms
+memory: 14116KB
+mode: -HS
+input_file: inputs/1000.case1.in
+The total CPU time: 0.21ms
+memory: 14116KB
+mode: -HS
+input_file: inputs/1000.case2.in
+The total CPU time: 0.205ms
+memory: 14116KB
+mode: -HS
+input_file: inputs/1000.case3.in
+The total CPU time: 0.149ms
+memory: 14116KB
+mode: -HS
+input_file: inputs/2000.case1.in
+The total CPU time: 0.185ms
+memory: 14116KB
+mode: -HS
+input_file: inputs/2000.case2.in
+The total CPU time: 0.271ms
+memory: 14116KB
+mode: -HS
+input_file: inputs/2000.case3.in
+The total CPU time: 1.421ms
+memory: 14116KB
+mode: -HS
+input_file: inputs/4000.case1.in
+The total CPU time: 0.521ms
+memory: 14116KB
+mode: -HS
+input_file: inputs/4000.case2.in
+The total CPU time: 0.242ms
+memory: 14116KB
+mode: -HS
+input_file: inputs/4000.case3.in
+The total CPU time: 0.342ms
+memory: 14116KB
+mode: -HS
+input_file: inputs/8000.case1.in
+The total CPU time: 0.909ms
+memory: 14172KB
+mode: -HS
+input_file: inputs/8000.case2.in
+The total CPU time: 0.641ms
+memory: 14172KB
+mode: -HS
+input_file: inputs/8000.case3.in
+The total CPU time: 0.493ms
+memory: 14172KB
+mode: -HS
+input_file: inputs/16000.case1.in
+The total CPU time: 1.15ms
+memory: 14172KB
+mode: -HS
+input_file: inputs/16000.case2.in
+The total CPU time: 1.326ms
+memory: 14172KB
+mode: -HS
+input_file: inputs/16000.case3.in
+The total CPU time: 0.997ms
+memory: 14172KB
+mode: -HS
+input_file: inputs/32000.case1.in
+The total CPU time: 4.798ms
+memory: 14304KB
+mode: -HS
+input_file: inputs/32000.case2.in
+The total CPU time: 4.035ms
+memory: 14304KB
+mode: -HS
+input_file: inputs/32000.case3.in
+The total CPU time: 28.761ms
+memory: 14304KB
+mode: -HS
+input_file: inputs/1000000.case1.in
+The total CPU time: 699.567ms
+memory: 20260KB
+mode: -HS
+input_file: inputs/1000000.case2.in
+The total CPU time: 97.104ms
+memory: 20260KB
+mode: -HS
+input_file: inputs/1000000.case3.in
+The total CPU time: 124.159ms
+memory: 20260KB
+mode: -IS
+input_file: inputs/5.case1.in
+The total CPU time: 0.07ms
+memory: 14116KB
+mode: -IS
+input_file: inputs/1000.case1.in
+The total CPU time: 0.533ms
+memory: 14116KB
+mode: -IS
+input_file: inputs/1000.case2.in
+The total CPU time: 0.149ms
+memory: 14116KB
+mode: -IS
+input_file: inputs/1000.case3.in
+The total CPU time: 2.242ms
+memory: 14116KB
+mode: -IS
+input_file: inputs/2000.case1.in
+The total CPU time: 1.952ms
+memory: 14116KB
+mode: -IS
+input_file: inputs/2000.case2.in
+The total CPU time: 0.07ms
+memory: 14116KB
+mode: -IS
+input_file: inputs/2000.case3.in
+The total CPU time: 2.848ms
+memory: 14116KB
+mode: -IS
+input_file: inputs/4000.case1.in
+The total CPU time: 6.636ms
+memory: 14116KB
+mode: -IS
+input_file: inputs/4000.case2.in
+The total CPU time: 0.418ms
+memory: 14116KB
+mode: -IS
+input_file: inputs/4000.case3.in
+The total CPU time: 7.492ms
+memory: 14116KB
+mode: -IS
+input_file: inputs/8000.case1.in
+The total CPU time: 28.281ms
+memory: 14172KB
+mode: -IS
+input_file: inputs/8000.case2.in
+The total CPU time: 0.123ms
+memory: 14172KB
+mode: -IS
+input_file: inputs/8000.case3.in
+The total CPU time: 44.403ms
+memory: 14172KB
+mode: -IS
+input_file: inputs/16000.case1.in
+The total CPU time: 97.686ms
+memory: 14172KB
+mode: -IS
+input_file: inputs/16000.case2.in
+The total CPU time: 0.107ms
+memory: 14172KB
+mode: -IS
+input_file: inputs/16000.case3.in
+The total CPU time: 115.852ms
+memory: 14172KB
+mode: -IS
+input_file: inputs/32000.case1.in
+The total CPU time: 379.99ms
+memory: 14304KB
+mode: -IS
+input_file: inputs/32000.case2.in
+The total CPU time: 0.185ms
+memory: 14304KB
+mode: -IS
+input_file: inputs/32000.case3.in
+The total CPU time: 489.254ms
+memory: 14304KB
+mode: -IS
+input_file: inputs/1000000.case1.in
+The total CPU time: 420445ms
+memory: 20260KB
+mode: -IS
+input_file: inputs/1000000.case2.in
+The total CPU time: 1.542ms
+memory: 20260KB
+mode: -IS
+input_file: inputs/1000000.case3.in
+The total CPU time: 840587ms
+memory: 20260KB
+mode: -RQS
+input_file: inputs/5.case1.in
+The total CPU time: 0.24ms
+memory: 14116KB
+mode: -RQS
+input_file: inputs/1000.case1.in
+The total CPU time: 0.478ms
+memory: 14116KB
+mode: -RQS
+input_file: inputs/1000.case2.in
+The total CPU time: 0.771ms
+memory: 14116KB
+mode: -RQS
+input_file: inputs/1000.case3.in
+The total CPU time: 0.175ms
+memory: 14116KB
+mode: -RQS
+input_file: inputs/2000.case1.in
+The total CPU time: 0.402ms
+memory: 14116KB
+mode: -RQS
+input_file: inputs/2000.case2.in
+The total CPU time: 0.275ms
+memory: 14116KB
+mode: -RQS
+input_file: inputs/2000.case3.in
+The total CPU time: 0.216ms
+memory: 14116KB
+mode: -RQS
+input_file: inputs/4000.case1.in
+The total CPU time: 0.628ms
+memory: 14116KB
+mode: -RQS
+input_file: inputs/4000.case2.in
+The total CPU time: 0.278ms
+memory: 14116KB
+mode: -RQS
+input_file: inputs/4000.case3.in
+The total CPU time: 0.392ms
+memory: 14116KB
+mode: -RQS
+input_file: inputs/8000.case1.in
+The total CPU time: 2.118ms
+memory: 14172KB
+mode: -RQS
+input_file: inputs/8000.case2.in
+The total CPU time: 0.948ms
+memory: 14172KB
+mode: -RQS
+input_file: inputs/8000.case3.in
+The total CPU time: 0.73ms
+memory: 14172KB
+mode: -RQS
+input_file: inputs/16000.case1.in
+The total CPU time: 1.764ms
+memory: 14172KB
+mode: -RQS
+input_file: inputs/16000.case2.in
+The total CPU time: 0.952ms
+memory: 14172KB
+mode: -RQS
+input_file: inputs/16000.case3.in
+The total CPU time: 1.081ms
+memory: 14172KB
+mode: -RQS
+input_file: inputs/32000.case1.in
+The total CPU time: 4.04ms
+memory: 14304KB
+mode: -RQS
+input_file: inputs/32000.case2.in
+The total CPU time: 4.515ms
+memory: 14304KB
+mode: -RQS
+input_file: inputs/32000.case3.in
+The total CPU time: 4.826ms
+memory: 14304KB
+mode: -RQS
+input_file: inputs/1000000.case1.in
+The total CPU time: 113.938ms
+memory: 20260KB
+mode: -RQS
+input_file: inputs/1000000.case2.in
+The total CPU time: 78.147ms
+memory: 20260KB
+mode: -RQS
+input_file: inputs/1000000.case3.in
+The total CPU time: 76.941ms
+memory: 20260KB
