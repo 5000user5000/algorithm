@@ -39,6 +39,7 @@ int main(int argc, char* argv[])
     char buffer[200];
     fstream fin(argv[2]);
     fstream fout;
+    fstream fout_time; //紀錄cpu time和memory usage
     fout.open(argv[3],ios::out);
     fin.getline(buffer,200);
     fin.getline(buffer,200);
@@ -75,6 +76,14 @@ int main(int argc, char* argv[])
     cout <<"The total CPU time: " << (stat.uTime + stat.sTime) / 1000.0 << "ms" << endl;
     cout <<"memory: " << stat.vmPeak << "KB" << endl; // print peak memory
 
+    //////////// write the output time file ///////////
+    fout_time.open("./data.txt",ios::app); //append
+    fout_time << "mode: " << argv[1] << endl;
+    fout_time << "input_file: " << argv[2] << endl;
+    fout_time <<"The total CPU time: " << (stat.uTime + stat.sTime) / 1000.0 << "ms" << endl;
+    fout_time <<"memory: " << stat.vmPeak << "KB" << endl; // print peak memory
+    
+
     //////////// write the output file ///////////
     fout << "# " << data.size() << " data points" <<endl;
     fout << "# index number" << endl;
@@ -82,5 +91,6 @@ int main(int argc, char* argv[])
         fout << i << " " <<data[i] << endl;
     fin.close();
     fout.close();
+    fout_time.close();
     return 0;
 }
